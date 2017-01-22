@@ -1,7 +1,7 @@
  <div class="header">
      <div class="container">
          <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-         <nav class="nav-collapse">
+         <nav style="padding-left:170px; font-size:1.1em" class="nav-collapse">
              <ul class="noList">
                  {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
                  <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
@@ -11,6 +11,6 @@
              </ul>
          </nav>
 
-         <h4 class="date" style="float: left">3.Aug - 5.Aug 2017, Rueckersbach, Germany</h4>
+         <h4 class="date" style="float: left; display: block; margin: auto; padding-left: 196px">3.Aug - 5.Aug 2017, Rueckersbach, Germany</h4>
      </div>
  </div><!-- end .header -->

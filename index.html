@@ -4,23 +4,19 @@ title: Long Haul
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-      </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
-    {% endif %}
-  </div>
-</div>
+  <h1 class="pageTitle">The Ultimate FP Unconference</h1>
+
+<img style="display:block; margin:auto; padding-bottom: 25px" src="{{ '/assets/img/bus-small.jpg' | prepend: site.baseurl }}" alt="">
+
+<p>
+  <b>BusConf</b> is all about community: We want to provide a platform where people interested in Functional Programming can meet to <b>learn</b>, <b>teach</b>, <b>discuss</b>, <b>write code</b> and <b>have a good time</b>.
+</p>
+
+<ul>
+  <li>The first Open Space Unconference focusing on Functional Programming.
+  <li>Low cost, non-profit event.</li>
+  <li>48 hours of learning, teaching, discussions and fun</li>
+  <li>Nice venue close to the Frankfurt airport</li>
+</ul>
+
+If you have not been to an open space event before, make sure to check out <a href={{ "format" | prepend: site.baseurl }}>Format</a> to get an idea what it is all about. Tickets are not yet on sale but you can follow us on <a href="https://twitter.com/_BusConf_">twitter</a> to receive updates on ticket sales.
