@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Format
+title: BusConf 2017 - Format
 ---
 
 <div class="post">

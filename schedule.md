@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: BusConf 2017 - Schedule 
 ---
 
 <div class="post">

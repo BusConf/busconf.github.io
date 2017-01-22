@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Location
+title: BusConf 2017 - Location
 ---
 
 <div class="post">
