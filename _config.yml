@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: BusConf 2017
+description: The Ultimate FP Unconference
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
@@ -14,15 +14,14 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+ - title: Schedule
+   url: /schedule
+ - title: Location
+   url: /location
+ - title: Format
+   url: /format
+ - title: Tickets
+   url: /tickets
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
-
-google_analytics: "UA-58263416-1"
+   twitter: _BusConf_
