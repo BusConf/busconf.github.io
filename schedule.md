@@ -11,17 +11,17 @@ title: About Long Haul
   </p>
 
 	<h3>Thursday</h3>
-  <p>
+  <p class="intro">
   Arrival and sign-in. There will also be some evening activities which will be announced later.
   </p>
 
 	<h3>Friday</h3>
-  <p>
+  <p class="intro">
   Open Space Unconference followed by whatever evening activities the attendees come up with.
   </p>
 
 	<h3>Saturday</h3>
-  <p>
+  <p class="intro">
   Open Space Unconference until 5pm at which the conference closes.
   </p>
 
