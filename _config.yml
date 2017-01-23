@@ -14,12 +14,12 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+ - title: Format
+   url: /format
  - title: Schedule
    url: /schedule
  - title: Location
    url: /location
- - title: Format
-   url: /format
  - title: Tickets
    url: /tickets
 

@@ -7,13 +7,13 @@ title: BusConf 2017 - Format
 	<h1 class="pageTitle">Format</h1>
 
 <p class="intro">
-<b>BusConf</b> is an <a href="https://en.wikipedia.org/wiki/Open_Space_Technology">Open Space</a> unonference. This means there is no fixed program. What takes place at <b>BusConf</b> is what those attending BusConf want to happen. We just provide the logistics. Ever noticed how coffee breaks at traditional conferences can lead to the most interesting discussions with like minded people? Think of BusConf as the ultimate coffee break with delicious FP flavored coffee.
+<b>BusConf</b> is an <a href="https://en.wikipedia.org/wiki/Open_Space_Technology">Open Space</a> unconference. This means there is no fixed program. What takes place at <b>BusConf</b> is what those attending BusConf want to happen. We just provide the logistics. Ever noticed how coffee breaks at traditional conferences can lead to the most interesting discussions with like-minded people? Think of BusConf as the ultimate coffee break with delicious FP-flavored coffee.
 </p>
 
 <h3>So how does it work?</h3>
 
 <p class="intro">
-Each morning we will gather to create the schedule for the day. Anyone can step forward to create a session. A session can take quite different shapes:
+Each morning we will gather to create the schedule for the day. Anyone can step forward to create a session. Sessions can take quite different shapes:
 </p>
 
 <h4>A discussion</h4>
@@ -23,12 +23,12 @@ Each morning we will gather to create the schedule for the day. Anyone can step 
 
 <h4>A talk</h4>
   <p class="intro">
-  Perhaps you still have slides on your laptop from a talk you have previously given elsewhere. It might be interesting to the others!
+  You can also run your session as a presentation with slides and Q&A!
   </p>
 
 <h4>A request</h4>
   <p class="intro">
-  Another motivation to propose a session is if you want to something about a topic that has always interested you still haven't had the chance to look into or struggled to get started. Just ask if there are others that either already experienced in that topic or would like to join you to explore it together during your session.
+  We all have topics we’d love to research further. Perhaps you haven’t had time, or struggled to get started. Now’s your moment to do it with others
   </p>
 
 <h4>A hands-on session</h4>

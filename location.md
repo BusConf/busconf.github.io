@@ -9,12 +9,12 @@ title: BusConf 2017 - Location
 	<img style="display:block; margin:auto; padding-bottom: 25px" src="{{ '/assets/img/rueckersbach-small.jpg' | prepend: site.baseurl }}" alt=""> 
 
   <p class="intro">
-  <b>BusConf 2017</b> will take place at the <a href="http://www.natuerlich-tagen.de/">SeminarZentrum Rückersbach</a>. Situated in the middle of Germany and close to the Frankfurt airport it provides us with enough hotel rooms to spend the night, and multiple seminar rooms to run sessions in. There is also a huge garden for you to run session in or just relax if you need a break. If enough of you decide to show up we will even have the whole venue exclusively for ourselves!
+  <b>BusConf 2017</b> will take place at the <a href="http://www.natuerlich-tagen.de/">SeminarZentrum Rückersbach</a>. Situated in the middle of Germany and close to the Frankfurt airport, it provides us with enough hotel rooms to spend the night, and multiple seminar rooms to run sessions in. There is also a huge garden for you to run a session in or just relax if you need a break. If enough of you decide to show up we will even have the whole venue exclusively for ourselves!
   </p>
 
   <h3>Getting There</h3>
   <p class="intro">
-  If you are coming in from abroard you will want to fly to <b>Frankfurt Airport</b> which is about 45km away from the venue. From there you can share a taxi ride, rent a car or board a 1 hour train to <b>Aschaffenburg Hauptbahnhof</b>.
+  If you are coming in from abroard you will want to fly to <b>Frankfurt Airport</b> which is about 45km away from the venue. From there you can rent a car or board a 1 hour train to <b>Aschaffenburg Hauptbahnhof</b>. The venue is only a short taxi ride away from the train station.
   </p>
   <p class="intro">
   Check out <a href="https://www.bahn.com/en/view/index.shtml">bahn.de</a> to find a train connection that suits you.
