@@ -29,4 +29,10 @@ title: BusConf 2017 - Location
   <p>
      <b>Questions:</b> If you have any further questions about your stay don't heistate to contact us via <a href="https://twitter.com/_BusConf_">twitter</a>.
   </p>
+  <h3>Registration</h3>
+<div>
+      <tito-widget event="busconf/busconf-2017"></tito-widget>
 </div>
+</div>
+
+
