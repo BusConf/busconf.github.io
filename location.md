@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BusConf 2017 - Location
+title: BusConf 2018 - Location
 ---
 
 <div class="post">
@@ -9,7 +9,7 @@ title: BusConf 2017 - Location
 	<img style="display:block; margin:auto; padding-bottom: 25px" src="{{ '/assets/img/rueckersbach-small.jpg' | prepend: site.baseurl }}" alt=""> 
 
   <p class="intro">
-  <b>BusConf 2017</b> will take place at the <a href="http://www.natuerlich-tagen.de/">SeminarZentrum Rückersbach</a>. Situated in the middle of Germany and close to the Frankfurt airport, it provides us with enough hotel rooms to spend the night, and multiple seminar rooms to run sessions in. There is also a huge garden for you to run a session in or just relax if you need a break. If enough of you decide to show up we will even have the whole venue exclusively for ourselves!
+  <b>BusConf 2018</b> will take place at the <a href="http://www.natuerlich-tagen.de/">SeminarZentrum Rückersbach</a>. Situated in the middle of Germany and close to the Frankfurt airport, it provides us with enough hotel rooms to spend the night, and multiple seminar rooms to run sessions in. There is also a huge garden for you to run a session in or just relax if you need a break. If enough of you decide to show up we will even have the whole venue exclusively for ourselves!
   </p>
 
   <h3>Getting There</h3>

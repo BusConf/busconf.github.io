@@ -1,4 +1,4 @@
-title: BusConf 2017
+title: BusConf 2018
 description: The Ultimate FP Unconference
 
 url: http://brianmaierjr.github.com/long-haul
@@ -16,12 +16,12 @@ navigation:
    url: /index.html
  - title: Format
    url: /format
- - title: Schedule
-   url: /schedule
+ #- title: Schedule
+   #url: /schedule
  - title: Location
    url: /location
- - title: Tickets
-   url: /tickets
+ #- title: Tickets
+   #url: /tickets
 
 social:
    twitter: _BusConf_
