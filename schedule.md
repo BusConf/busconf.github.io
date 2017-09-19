@@ -1,14 +1,10 @@
 ---
 layout: default
-title: BusConf 2017 - Schedule 
+title: BusConf 2018 - Schedule 
 ---
 
 <div class="post">
 	<h1 class="pageTitle">Schedule</h1>
-
-  <p class="intro">
-    <b>Note</b>: This is a preliminary version
-  </p>
 
 	<h3>Thursday</h3>
   <p class="intro">
