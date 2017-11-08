@@ -5,16 +5,16 @@ title: BusConf 2018 - Tickets
 
 <div class="post">
 	<h1 class="pageTitle">Tickets</h1>
-  <p class="intro">
-  The registration is <b>OPEN</b> - get your ticket below.
-  </p>
   <h3>Prices And Payment</h3>
   <p class="intro">
-  The payment will take place during the check-out at the hotel. There is only one type of ticket which gets you everything you need: A hotel room from Thursday to Saturday. Breakfast on Friday and Saturday and also dinner on Thursday and Friday. Plus, of course, access to the conference itself ;)
+  The payment will take place <b>during the check-out at the hotel</b>. There is only one type of ticket which gets you everything you need: A hotel room from Thursday to Saturday. Breakfast on Friday and Saturday and also dinner on Thursday and Friday. Plus, of course, access to the conference itself ;)
   <ul>
     <li class="intro"><b>Single Room Ticket (Thu-Sat Evening): 311€</b></li>
   </ul>
   </p>
+  <p class="intro">
+  BusConf is a non-profit event, this money is used only for covering hotel costs, i.e. the room you are staying at and the conference rooms.
+  </p>(
 
   <h3>Ticket Cancellation</h3>
 
@@ -30,7 +30,10 @@ title: BusConf 2018 - Tickets
   <p class="intro">
      <b>Questions:</b> If you have any further questions about your stay don't hesitate to contact us via <a href="https://twitter.com/_BusConf_">twitter</a>.
   </p>
-  <h3>Purchase Your Ticket</h3>
+  <h3>Registration</h3>
+  <p class="intro">
+  The registration is <b>not yet open</b>.
+  </p>
 <div>
       <tito-widget event="busconf/busconf-2018"></tito-widget>
 </div>
