@@ -20,8 +20,8 @@ navigation:
    url: /schedule
  - title: Location
    url: /location
- #- title: Tickets
-   #url: /tickets
+ - title: Tickets
+   url: /tickets
 
 social:
    twitter: _BusConf_
