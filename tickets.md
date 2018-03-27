@@ -18,11 +18,8 @@ title: BusConf 2018 - Tickets
   <p class="intro">
      <b>Questions:</b> If you have any further questions about your stay don't heistate to contact us via <a href="https://twitter.com/_BusConf_">twitter</a>.
   </p>
-  <h3>Registration</h3>
+  <h3>Purchase Your Ticket</h3>
 <div>
- <p class="intro">
-    You will be able to purchase your ticket here soon.
- </p>
       <tito-widget event="busconf/busconf-2018"></tito-widget>
 </div>
 </div>
