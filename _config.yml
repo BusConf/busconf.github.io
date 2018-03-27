@@ -16,8 +16,8 @@ navigation:
    url: /index.html
  - title: Format
    url: /format
- #- title: Schedule
-   #url: /schedule
+ - title: Schedule
+   url: /schedule
  - title: Location
    url: /location
  #- title: Tickets
