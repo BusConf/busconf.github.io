@@ -6,7 +6,7 @@ title: BusConf 2018 - Tickets
 <div class="post">
 	<h1 class="pageTitle">Tickets</h1>
   <p class="intro">
-  The registration will open <b>SOON</b>. We will announce the exact date and time on Twitter. Make sure to order tickets promptly because we are a small event so the number of tickets is limited ;)
+  The registration is <b>OPEN</b> - get your ticket below.
   </p>
   <h3>Prices And Payment</h3>
   <p class="intro">
