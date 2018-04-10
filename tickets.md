@@ -16,7 +16,7 @@ title: BusConf 2018 - Tickets
   </ul>
   </p>
   <p class="intro">
-     <b>Questions:</b> If you have any further questions about your stay don't heistate to contact us via <a href="https://twitter.com/_BusConf_">twitter</a>.
+     <b>Questions:</b> If you have any further questions about your stay don't hesitate to contact us via <a href="https://twitter.com/_BusConf_">twitter</a>.
   </p>
   <h3>Purchase Your Ticket</h3>
 <div>
