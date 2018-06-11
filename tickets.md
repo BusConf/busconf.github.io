@@ -15,6 +15,18 @@ title: BusConf 2018 - Tickets
     <li class="intro"><b>Single Room Ticket (Thu-Sat Evening): 311€</b></li>
   </ul>
   </p>
+
+  <h3>Ticket Cancellation</h3>
+
+  <p class="intro">
+    We need to commit to the amount of rooms we want to reserve for the event with the venue. Of course all reserved rooms must actually be paid. For this reason the following cancellation fees apply which we have to pass on to attendees:
+  <ul>
+    <li class="intro">up to 4 weeks before: 20%</li>
+    <li class="intro">up to 2 weeks before: 50%</li>
+    <li class="intro">up to 3 days before: 80%</li>
+    <li class="intro">after that: 90%</li>
+  </ul>
+  </p>
   <p class="intro">
      <b>Questions:</b> If you have any further questions about your stay don't hesitate to contact us via <a href="https://twitter.com/_BusConf_">twitter</a>.
   </p>
