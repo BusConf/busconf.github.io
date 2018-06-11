@@ -19,7 +19,7 @@ title: BusConf 2018 - Tickets
   <h3>Ticket Cancellation</h3>
 
   <p class="intro">
-    The venue requires us to commit to a certain amout of rooms, and course all reserved rooms must actually be paid. Therefore the following cancellation fees apply which we have to pass on to all participants:
+    The venue requires us to commit to a certain amout of rooms, of course all reserved rooms must actually be paid. Therefore the following cancellation fees apply which we have to pass on to all participants:
   <ul>
     <li class="intro">up to 4 weeks before: 20% (62,20€)</li>
     <li class="intro">up to 2 weeks before: 50% (155,50€)</li>
