@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BusConf 2018 - Schedule 
+title: BusConf - Schedule 
 ---
 
 <div class="post">

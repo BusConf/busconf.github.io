@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BusConf 2018 - Tickets
+title: BusConf - Tickets
 ---
 
 <div class="post">
@@ -35,7 +35,7 @@ title: BusConf 2018 - Tickets
   The registration is <b>not yet open</b>.
   </p>
 <div>
-      <tito-widget event="busconf/busconf-2018"></tito-widget>
+      <tito-widget event="busconf/busconf-2019"></tito-widget>
 </div>
 </div>
 
