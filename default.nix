@@ -11,6 +11,7 @@ in stdenv.mkDerivation {
   name = "dx-blog";
   buildInputs = [env ruby];
   shellHook = ''
+    jekyll clean
     jekyll serve --watch --incremental
   '';
 }
