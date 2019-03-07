@@ -9,7 +9,7 @@ title: BusConf - Tickets
   <p class="intro">
   The payment will take place <b>during the check-out at the hotel</b>. There is only one type of ticket which gets you everything you need: A hotel room from Thursday to Saturday. Breakfast on Friday and Saturday and also dinner on Thursday and Friday. Plus, of course, access to the conference itself ;)
   <ul>
-    <li class="intro"><b>Single Room Ticket (Thu-Sat Evening): 311€</b></li>
+    <li class="intro"><b>Single Room Ticket (Thu-Sat Evening): 327€</b></li>
   </ul>
   </p>
   <p class="intro">
