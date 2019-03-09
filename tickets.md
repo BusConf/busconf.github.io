@@ -14,7 +14,7 @@ title: BusConf - Tickets
   </p>
   <p class="intro">
   BusConf is a non-profit event, this money is used only for covering hotel costs, i.e. the room you are staying at and the conference rooms.
-  </p>(
+  </p>
 
   <h3>Ticket Cancellation</h3>
 
@@ -32,7 +32,7 @@ title: BusConf - Tickets
   </p>
   <h3>Registration</h3>
   <p class="intro">
-  The registration is <b>not yet open</b>.
+  The Registration will <b>open soon!</b>
   </p>
 <div>
       <tito-widget event="busconf/busconf-2019"></tito-widget>
