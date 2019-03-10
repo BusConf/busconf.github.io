@@ -32,7 +32,7 @@ title: BusConf - Tickets
   </p>
   <h3>Registration</h3>
   <p class="intro">
-  The Registration will <b>open soon!</b>
+  The Registration is <b>open!</b>
   </p>
 <div>
       <tito-widget event="busconf/busconf-2019"></tito-widget>
