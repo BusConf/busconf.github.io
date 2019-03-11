@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BusConf {{ site.year }}  - Format
+title: BusConf - Format
 ---
 
 <div class="post">
