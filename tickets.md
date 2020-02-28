@@ -31,9 +31,6 @@ title: BusConf - Tickets
      <b>Questions:</b> If you have any further questions about your stay don't hesitate to contact us via <a href="https://twitter.com/_BusConf_">twitter</a>.
   </p>
   <h3>Registration</h3>
-  <p class="intro">
-  The Registration will open <b>soon!</b>
-  </p>
 <div>
       <tito-widget event="busconf/busconf-2020"></tito-widget>
 </div>
